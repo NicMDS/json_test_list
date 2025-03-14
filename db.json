@@ -1,7 +1,7 @@
 {
-    "sessions": {
-        "title": "Session 1",
-        "gm_list": [
+    "hubs": {
+        "title": "Hub 1",
+        "games_list": [
             {
                 "name": "Sessão 1",
                 "thumb_url": "https://example.com/thumb1.jpg",
