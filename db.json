@@ -14,12 +14,7 @@
                         "name": "Game 2",
                         "thumb_url": "https://example.com/thumb2.jpg",
                         "link_redirect": "https://example.com/gm2"
-                    }
-                ]
-            },
-            {
-                "title": "Hub 2",
-                "games_list": [
+                    },
                     {
                         "name": "Game 3",
                         "thumb_url": "https://example.com/thumb3.jpg",
@@ -29,6 +24,21 @@
                         "name": "Game 4",
                         "thumb_url": "https://example.com/thumb4.jpg",
                         "link_redirect": "https://example.com/gm4"
+                    }
+                ]
+            },
+            {
+                "title": "Hub 2",
+                "games_list": [
+                    {
+                        "name": "Game 5",
+                        "thumb_url": "https://example.com/thumb5.jpg",
+                        "link_redirect": "https://example.com/gm5"
+                    },
+                    {
+                        "name": "Game 6",
+                        "thumb_url": "https://example.com/thumb6.jpg",
+                        "link_redirect": "https://example.com/gm6"
                     }
                 ]
             }
