@@ -1,17 +1,29 @@
 {
-    "hubs": {
-        "title": "Hub 1",
-        "games_list": [
-            {
-                "name": "Sessão 1",
-                "thumb_url": "https://example.com/thumb1.jpg",
-                "link_redirect": "https://example.com/gm1"
-            },
-            {
-                "name": "Sessão 2",
-                "thumb_url": "https://example.com/thumb2.jpg",
-                "link_redirect": "https://example.com/gm2"
-            }
-        ]
-    }
+    "hub_list": [
+        {
+            "title": "Hub 1",
+            "games_list": [
+                {
+                    "name": "Sessão 1",
+                    "thumb_url": "https://example.com/thumb1.jpg",
+                    "link_redirect": "https://example.com/gm1"
+                },
+                {
+                    "name": "Sessão 2",
+                    "thumb_url": "https://example.com/thumb2.jpg",
+                    "link_redirect": "https://example.com/gm2"
+                }
+            ]
+        },
+        {
+            "title": "Hub 2",
+            "games_list": [
+                {
+                    "name": "Sessão 3",
+                    "thumb_url": "https://example.com/thumb3.jpg",
+                    "link_redirect": "https://example.com/gm3"
+                }
+            ]
+        }
+    ]
 }
