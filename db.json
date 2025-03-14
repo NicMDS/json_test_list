@@ -1,0 +1,17 @@
+{
+    "sessions": {
+        "title": "Session 1",
+        "gm_list": [
+            {
+                "name": "Sessão 1",
+                "thumb_url": "https://example.com/thumb1.jpg",
+                "link_redirect": "https://example.com/gm1"
+            },
+            {
+                "name": "Sessão 2",
+                "thumb_url": "https://example.com/thumb2.jpg",
+                "link_redirect": "https://example.com/gm2"
+            }
+        ]
+    }
+}
