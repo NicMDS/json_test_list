@@ -1,29 +1,38 @@
 {
-    "hub_list": [
-        {
-            "title": "Hub 1",
-            "games_list": [
-                {
-                    "name": "Sessão 1",
-                    "thumb_url": "https://example.com/thumb1.jpg",
-                    "link_redirect": "https://example.com/gm1"
-                },
-                {
-                    "name": "Sessão 2",
-                    "thumb_url": "https://example.com/thumb2.jpg",
-                    "link_redirect": "https://example.com/gm2"
-                }
-            ]
-        },
-        {
-            "title": "Hub 2",
-            "games_list": [
-                {
-                    "name": "Sessão 3",
-                    "thumb_url": "https://example.com/thumb3.jpg",
-                    "link_redirect": "https://example.com/gm3"
-                }
-            ]
-        }
-    ]
+    "hubs_container": 
+    {
+        "hub_list": [
+            {
+                "title": "Hub 1",
+                "games_list": [
+                    {
+                        "name": "Game 1",
+                        "thumb_url": "https://example.com/thumb1.jpg",
+                        "link_redirect": "https://example.com/gm1"
+                    },
+                    {
+                        "name": "Game 2",
+                        "thumb_url": "https://example.com/thumb2.jpg",
+                        "link_redirect": "https://example.com/gm2"
+                    }
+                ]
+            },
+            {
+                "title": "Hub 2",
+                "games_list": [
+                    {
+                        "name": "Game 3",
+                        "thumb_url": "https://example.com/thumb3.jpg",
+                        "link_redirect": "https://example.com/gm3"
+                    },
+                    {
+                        "name": "Game 4",
+                        "thumb_url": "https://example.com/thumb4.jpg",
+                        "link_redirect": "https://example.com/gm4"
+                    }
+                ]
+            }
+        ]
+    }
+    
 }
