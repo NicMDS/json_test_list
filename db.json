@@ -4,6 +4,7 @@
         "hub_list": [
             {
                 "title": "JX Soft",
+                "type": "dynamic",
                 "games_list": [
                     {
                         "name": "B!ngo",
@@ -54,6 +55,7 @@
             },
             {
                 "title": "Atari Games",
+                "type": "normal",
                 "games_list": [
                     {
                         "name": "Lion Casino",
