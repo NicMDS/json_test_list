@@ -1,6 +1,7 @@
 {
     "hubs_container": 
     {
+        "size": "small",
         "hub_list": [
             {
                 "title": "JX Soft",
