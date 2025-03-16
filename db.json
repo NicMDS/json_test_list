@@ -4,7 +4,7 @@
         "size": "small",
         "dynamic_background_color": "#4493D880",
         "dynamic_round_border": true,
-        "dynamic_multiple_rows": false,
+        "dynamic_multiple_rows": true,
         "hub_list": [
             {
                 "title": "JX Soft",
