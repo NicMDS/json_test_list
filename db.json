@@ -1,9 +1,9 @@
 {
     "hubs_container": 
     {
-        "size": "big",
-        "dynamic_background_color": "#4493D84D",
-        "dynamic_round_border": false,
+        "size": "small",
+        "dynamic_background_color": "#4493D880",
+        "dynamic_round_border": true,
         "hub_list": [
             {
                 "title": "JX Soft",
