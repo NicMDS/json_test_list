@@ -1,7 +1,7 @@
 {
     "hubs_container": 
     {
-        "size": "big",
+        "size": "small",
         "dynamic_background_color": "#4493D800",
         "dynamic_round_border": true,
         "dynamic_multiple_rows": true,
@@ -9,7 +9,7 @@
         "hub_list": [
             {
                 "title": "Parceiro Soft",
-                "type": "dynamic",
+                "type": "normal",
                 "games_list": [
                     {
                         "name": "B!ngo",
@@ -131,7 +131,7 @@
             },
             {
                 "title": "Exclusividades da Casa",
-                "type": "dynamic",
+                "type": "normal",
                 "games_list": [
                     {
                         "name": "B!ngo",
