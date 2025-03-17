@@ -8,7 +8,7 @@
         "dynamic_arrow_center": true,
         "hub_list": [
             {
-                "title": "JX Soft",
+                "title": "Parceiro Soft",
                 "type": "dynamic",
                 "games_list": [
                     {
@@ -55,6 +55,16 @@
                         "name": "Arabic Golden Age",
                         "thumb_url": "https://i.postimg.cc/PrjtNtjp/Arabic-Golden-Age.jpg",
                         "link_redirect": "https://example.com/gm6"
+                    },
+                    {
+                        "name": "Lion Casino",
+                        "thumb_url": "https://i.postimg.cc/vT9LbT2X/Lion-Casino.jpg",
+                        "link_redirect": "https://example.com/gm7"
+                    },
+                    {
+                        "name": "Bingo Man",
+                        "thumb_url": "https://i.postimg.cc/9MDYgJG6/BingoMan.jpg",
+                        "link_redirect": "https://example.com/gm8"
                     }
                 ]
             },
@@ -62,6 +72,112 @@
                 "title": "Atari Games",
                 "type": "normal",
                 "games_list": [
+                    {
+                        "name": "B!ngo",
+                        "thumb_url": "https://i.postimg.cc/mr2wCbh2/Bingo.jpg",
+                        "link_redirect": "https://example.com/gm1"
+                    },
+                    {
+                        "name": "Slothz",
+                        "thumb_url": "https://i.postimg.cc/XJtcRdLp/Slotz.jpg",
+                        "link_redirect": "https://example.com/gm2"
+                    },
+                    {
+                        "name": "El Tigre",
+                        "thumb_url": "https://i.postimg.cc/zftkk9Rw/El-Tigre.jpg",
+                        "link_redirect": "https://example.com/gm3"
+                    },
+                    {
+                        "name": "Thunder Gains",
+                        "thumb_url": "https://i.postimg.cc/TwM566FJ/Thunder-Gains.jpg",
+                        "link_redirect": "https://example.com/gm4"
+                    },
+                    {
+                        "name": "Horse Bethy",
+                        "thumb_url": "https://i.postimg.cc/2y3D9qGc/Horse-Bethy.jpg",
+                        "link_redirect": "https://example.com/gm5"
+                    },
+                    {
+                        "name": "Roulette Beach",
+                        "thumb_url": "https://i.postimg.cc/L89q9DxG/Roulette-Beach.jpg",
+                        "link_redirect": "https://example.com/gm6"
+                    },
+                    {
+                        "name": "Kill the Plants",
+                        "thumb_url": "https://i.postimg.cc/RCfSMWjx/Kill-The-Plants.jpg",
+                        "link_redirect": "https://example.com/gm6"
+                    },
+                    {
+                        "name": "Pandices",
+                        "thumb_url": "https://i.postimg.cc/L63m1r9y/Pandices.jpg",
+                        "link_redirect": "https://example.com/gm6"
+                    },
+                    {
+                        "name": "Arabic Golden Age",
+                        "thumb_url": "https://i.postimg.cc/PrjtNtjp/Arabic-Golden-Age.jpg",
+                        "link_redirect": "https://example.com/gm6"
+                    },
+                    {
+                        "name": "Lion Casino",
+                        "thumb_url": "https://i.postimg.cc/vT9LbT2X/Lion-Casino.jpg",
+                        "link_redirect": "https://example.com/gm7"
+                    },
+                    {
+                        "name": "Bingo Man",
+                        "thumb_url": "https://i.postimg.cc/9MDYgJG6/BingoMan.jpg",
+                        "link_redirect": "https://example.com/gm8"
+                    }
+                ]
+            },
+            {
+                "title": "Exclusividades da Casa",
+                "type": "dynamic",
+                "games_list": [
+                    {
+                        "name": "B!ngo",
+                        "thumb_url": "https://i.postimg.cc/mr2wCbh2/Bingo.jpg",
+                        "link_redirect": "https://example.com/gm1"
+                    },
+                    {
+                        "name": "Slothz",
+                        "thumb_url": "https://i.postimg.cc/XJtcRdLp/Slotz.jpg",
+                        "link_redirect": "https://example.com/gm2"
+                    },
+                    {
+                        "name": "El Tigre",
+                        "thumb_url": "https://i.postimg.cc/zftkk9Rw/El-Tigre.jpg",
+                        "link_redirect": "https://example.com/gm3"
+                    },
+                    {
+                        "name": "Thunder Gains",
+                        "thumb_url": "https://i.postimg.cc/TwM566FJ/Thunder-Gains.jpg",
+                        "link_redirect": "https://example.com/gm4"
+                    },
+                    {
+                        "name": "Horse Bethy",
+                        "thumb_url": "https://i.postimg.cc/2y3D9qGc/Horse-Bethy.jpg",
+                        "link_redirect": "https://example.com/gm5"
+                    },
+                    {
+                        "name": "Roulette Beach",
+                        "thumb_url": "https://i.postimg.cc/L89q9DxG/Roulette-Beach.jpg",
+                        "link_redirect": "https://example.com/gm6"
+                    },
+                    {
+                        "name": "Kill the Plants",
+                        "thumb_url": "https://i.postimg.cc/RCfSMWjx/Kill-The-Plants.jpg",
+                        "link_redirect": "https://example.com/gm6"
+                    },
+                    {
+                        "name": "Pandices",
+                        "thumb_url": "https://i.postimg.cc/L63m1r9y/Pandices.jpg",
+                        "link_redirect": "https://example.com/gm6"
+                    },
+                    {
+                        "name": "Arabic Golden Age",
+                        "thumb_url": "https://i.postimg.cc/PrjtNtjp/Arabic-Golden-Age.jpg",
+                        "link_redirect": "https://example.com/gm6"
+                    },
                     {
                         "name": "Lion Casino",
                         "thumb_url": "https://i.postimg.cc/vT9LbT2X/Lion-Casino.jpg",
