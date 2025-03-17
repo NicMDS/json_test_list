@@ -4,7 +4,11 @@
         "size": "small",
         "dynamic_background_color": "#BA94524D",
         "dynamic_round_border": true,
+<<<<<<< HEAD
         "dynamic_multiple_rows": false,
+=======
+        "dynamic_multiple_rows": true,
+>>>>>>> parent of 874237f (Update db.json)
         "dynamic_arrow_center": false,
         "hub_list": [
             {
