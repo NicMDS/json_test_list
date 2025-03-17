@@ -71,6 +71,21 @@
                         "name": "Bingo Man",
                         "thumb_url": "https://i.postimg.cc/9MDYgJG6/BingoMan.jpg",
                         "link_redirect": "https://example.com/gm8"
+                    },
+                    {
+                        "name": "Kill the Plants",
+                        "thumb_url": "https://i.postimg.cc/RCfSMWjx/Kill-The-Plants.jpg",
+                        "link_redirect": "https://example.com/gm6"
+                    },
+                    {
+                        "name": "Pandices",
+                        "thumb_url": "https://i.postimg.cc/L63m1r9y/Pandices.jpg",
+                        "link_redirect": "https://example.com/gm6"
+                    },
+                    {
+                        "name": "Arabic Golden Age",
+                        "thumb_url": "https://i.postimg.cc/PrjtNtjp/Arabic-Golden-Age.jpg",
+                        "link_redirect": "https://example.com/gm6"
                     }
                 ]
             }
