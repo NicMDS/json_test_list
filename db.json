@@ -55,7 +55,17 @@
                         "name": "Arabic Golden Age",
                         "thumb_url": "https://i.postimg.cc/PrjtNtjp/Arabic-Golden-Age.jpg",
                         "link_redirect": "https://example.com/gm6"
-                    }
+                    },
+                    {
+                        "name": "Lion Casino",
+                        "thumb_url": "https://i.postimg.cc/vT9LbT2X/Lion-Casino.jpg",
+                        "link_redirect": "https://example.com/gm7"
+                    },
+                    {
+                        "name": "Bingo Man",
+                        "thumb_url": "https://i.postimg.cc/9MDYgJG6/BingoMan.jpg",
+                        "link_redirect": "https://example.com/gm8"
+                    },
                 ]
             },
             {
