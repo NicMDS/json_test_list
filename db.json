@@ -2,7 +2,7 @@
     "hubs_container": 
     {
         "size": "big",
-        "dynamic_background_color": "#4493D800",
+        "dynamic_background_color": "#4493D84D",
         "dynamic_round_border": true,
         "dynamic_multiple_rows": true,
         "dynamic_arrow_center": true,
